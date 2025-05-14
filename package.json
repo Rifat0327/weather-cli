@@ -1,0 +1,23 @@
+{
+  "name": "7_weather-cli",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "private": false,
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "homepage": "www.example.com",
+  "repository": {
+    "type": "git",
+    "url": "www.example.com"
+  },
+  "bugs": {
+    "url": "www.example.com",
+    "email": "rifat0327@mail.ru"
+  }
+}
